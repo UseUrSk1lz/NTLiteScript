@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+; https://www.ghacks.net/2017/10/13/fix-jumping-icons-on-the-windows-10-desktop/
+; Default -1725
+[HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics]
+"IconSpacing"="-1125"
+"IconVerticalSpacing"="-1125"

@@ -1,0 +1,26 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Messenger\Client]
+"CEIP"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\SQMClient\Windows]
+"CEIPEnable"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\SQMClient\IE]
+"CEIPEnable"=dword:00000000
+"SqmLoggerRunning"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\SQMClient\Reliability]
+"CEIPEnable"=dword:00000000
+"SqmLoggerRunning"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\SQMClient\Windows]
+"CEIPEnable"=dword:00000000
+"DisableOptinExperience"=dword:00000001
+"SqmLoggerRunning"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Software\Policies\Microsoft\Internet Explorer\SQM]
+"DisableCustomerImprovementProgram"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Software\Policies\Microsoft\SQMClient\Windows]
+"CEIPEnable"=dword:00000000

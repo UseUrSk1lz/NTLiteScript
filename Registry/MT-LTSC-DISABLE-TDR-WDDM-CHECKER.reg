@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+; TDR checker monitors the computers hardware, particularly the GPU, is say the GPU stops responding with the computer for 2 seconds TDR checker restarts the driver. The TDR checker was good on paper but did not work in the real world. as a gpu can stop responding when it is working hard.
+; https://docs.microsoft.com/en-us/windows-hardware/drivers/display/tdr-registry-keys
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers]
+"TdrDelay"=dword:00000000
+"TdrLevel"=dword:00000000
+"TdrDdiDelay"=dword:00000000
+"TdrTestMode"=dword:00000000
+"TdrDebugMode"=dword:00000000
+"TdrLimitTime"=dword:00000000
+"TdrLimitCount"=dword:00000000
