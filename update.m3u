@@ -1,65 +1,39 @@
 #EXTM3U
-#EXTINF:-1,IT047:RAI 1 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2725
-#EXTINF:-1,IT048:RAI 2 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2724
-#EXTINF:-1,IT049:RAI 3 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2723
-#EXTINF:-1,IT050:RAI 4 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2722
-#EXTINF:-1,IT051:RAI 5 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2721
-#EXTINF:-1,IT052:RAI GULP 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2720
-#EXTINF:-1,IT054:RAI NEWS 24 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2718
-#EXTINF:-1,IT055:RAI PREMIUM 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2717
-#EXTINF:-1,IT056:RAI SCUOLA 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2716
-#EXTINF:-1,IT059:RAI STORIA 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2713
-#EXTINF:-1,IT060:RAI YOYO 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2712
-#EXTINF:-1,IT004:CANALE 5 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2768
-#EXTINF:-1,IT021:FOOD NETWORK 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2751
-#EXTINF:-1,IT053:RAI MOVIE 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2719
-#EXTINF:-1,IT071:SKY CINEMA ACTION 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2701
-#EXTINF:-1,IT006:CARTOONITO 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2766
-#EXTINF:-1,IT008:CIELO HD
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2764
-#EXTINF:-1,IT014:DISNEY JR 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2758
-#EXTINF:-1,IT037:NICK JUNIOR 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2735
-#EXTINF:-1,IT029:LA 5 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2743
-#EXTINF:-1,IT030:LA 7 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2742
-#EXTINF:-1,IT031:MEDIASET 1 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2741
-#EXTINF:-1,IT032:MEDIASET TALIA DUE
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2740
-#EXTINF:-1,IT033:MEDIASET 20
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2739
-#EXTINF:-1,IT119:ITALIA 1
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/28436
-#EXTINF:-1,IT120:ITALIA 2
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/28435
-#EXTINF:-1,IT057:RAI SPORT 1 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2715
-#EXTINF:-1,IT086:SKY SPORT F1 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2686
-#EXTINF:-1,IT034:MEDIASET CINE34
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2738
-#EXTINF:-1,IT038:PARAMOUNT CHANNEL 
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2734
-#EXTINF:-1,IT040:SKY PRIMAFILA 1 HD
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2732
-#EXTINF:-1,IT041:SKY PRIMAFILA 2 HD
-http://yesimes.oknirvana.club:8880/DAANM091/t9xnxDuGgj/2731
+#EXTINF:-1,Rai 1
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64045
+#EXTINF:-1,Rai 2
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64047
+#EXTINF:-1,Rai 3
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64048
+#EXTINF:-1,Rai 4
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64049
+#EXTINF:-1,Rai 5
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64050
+#EXTINF:-1,Rai News 24
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68340
+#EXTINF:-1,Rai Premium
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68345
+#EXTINF:-1,Rai Movie
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68346
+#EXTINF:-1,Rai Yoyo
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68890
+#EXTINF:-1,Rai Gulp
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68891
+#EXTINF:-1,Rete 4
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64051
+#EXTINF:-1,Canale 5
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64052
+#EXTINF:-1,LA 5
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68338
+#EXTINF:-1,LA 7
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68339
+#EXTINF:-1,Mediaset Italia 1
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64053
+#EXTINF:-1,Mediaset Italia 2
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68342
+#EXTINF:-1,20 Mediaset
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68341
+#EXTINF:-1,Mediaset Extra
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68344
+#EXTINF:-1,Sky Atlantic 
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68348
