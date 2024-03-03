@@ -1,45 +1,89 @@
-#EXTM3U
-#EXTINF:-1,Rai 1
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64045
-#EXTINF:-1,Rai 2
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64047
-#EXTINF:-1,Rai 3
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64048
-#EXTINF:-1,Rai 4
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64049
-#EXTINF:-1,Rai 5
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64050
-#EXTINF:-1,Rai News 24
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68340
-#EXTINF:-1,Rai Premium
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68345
-#EXTINF:-1,Rai Movie
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68346
-#EXTINF:-1,Rai Yoyo
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68890
-#EXTINF:-1,Rai Gulp
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68891
-#EXTINF:-1,Rete 4
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64051
-#EXTINF:-1,Canale 5
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64052
-#EXTINF:-1,LA 5
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68338
-#EXTINF:-1,LA 7
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68339
-#EXTINF:-1,Italia 1
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64053
-#EXTINF:-1,Italia 2
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68342
-#EXTINF:-1,Mediaset 20
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68341
-#EXTINF:-1,Mediaset Extra
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68344
-#EXTINF:-1,Sky Atlantic 
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68348
-#EXTINF:-1,Sky Cinema Uno
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68349
-#EXTINF:-1,Sky Cinema Due
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68350
-#EXTINF:-1,Sky Arte
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68347
+#
+#EXTINF:-1,Rai1FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4417.ts
+#EXTINF:-1,Rai2FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4416.ts
+#EXTINF:-1,Rai3FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4414.ts
+#EXTINF:-1,Rai4 HD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4412.ts
+#EXTINF:-1,Rai5 HD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4411.ts
+#EXTINF:-1,Italia1FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4439.ts
+#EXTINF:-1,Canale5FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4464.ts
+#EXTINF:-1,Cartonito
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4462.ts
+#EXTINF:-1,RaiGulpFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4410.ts
+#EXTINF:-1,MediasetEXTRA
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4432.ts
+#EXTINF:-1,RaiMovieFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4409.ts
+#EXTINF:-1,RaiPremiumFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4408.ts
+#EXTINF:-1,RaiScuolaFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4407.ts
+#EXTINF:-1,RaiSportFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4406.ts
+#EXTINF:-1,RaiStoriaFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4405.ts
+#EXTINF:-1,RaiYoYoFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4404.ts
+#EXTINF:-1,RealTimeD-FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4403.ts
+#EXTINF:-1,Rete4FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4402.ts
+#EXTINF:-1,RomaChannelHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4401.ts
+#EXTINF:-1,RSILa1FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4400.ts
+#EXTINF:-1,RSILa2FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4399.ts
+#EXTINF:-1,SkyArteFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4398.ts
+#EXTINF:-1,SkyAtlantic 1FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4397.ts
+#EXTINF:-1,SkyCinemaActionFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4395.ts
+#EXTINF:-1,SkyCinemaCollectionROCKYFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4394.ts
+#EXTINF:-1,SkyCinemaComedyFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4393.ts
+#EXTINF:-1,SkyCinemaDramaFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4392.ts
+#EXTINF:-1,SkyCinemaDue24FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4391.ts
+#EXTINF:-1,SkyCinemaDueFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4390.ts
+#EXTINF:-1,SkyCinemaFamilyFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4389.ts
+#EXTINF:-1,SkyCinemaRomanceFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4388.ts
+#EXTINF:-1,SkyCinemaSuspenceFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4387.ts
+#EXTINF:-1,SkyCinemaUno+24FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4386.ts
+#EXTINF:-1,SkyCinemaUnoFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4385.ts
+#EXTINF:-1,SkyEurosport2FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4384.ts
+#EXTINF:-1,SkySerieAFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4383.ts
+#EXTINF:-1,SkySport24FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4382.ts
+#EXTINF:-1,SkySportArenaHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4376.ts
+#EXTINF:-1,SkySportCollectionFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4375.ts
+#EXTINF:-1,SkySportF1FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4374.ts
+#EXTINF:-1,SkySportFootballFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4373.ts
+#EXTINF:-1,SkySportMotoGPFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4372.ts
+#EXTINF:-1,SkySportNBAFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4371.ts
+#EXTINF:-1,SkySportUnoFHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4370.ts
