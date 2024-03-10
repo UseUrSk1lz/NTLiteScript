@@ -1,4 +1,3 @@
-///https://d.tousecurity.com/free-iptv-links-m3u-playlist-07-03-2024/
 #EXTM3U
 #EXTINF:-1,Rai 1
 http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64045
@@ -38,7 +37,7 @@ http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68341
 http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68344
 #EXTINF:-1,Food Network
 https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
-#EXTINF:-1,[37] Warner TV
+#EXTINF:-1,Warner TV
 https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
 #EXTINF:-1,Sky Atlantic 
 http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68348
@@ -60,3 +59,12 @@ http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68353
 http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68354
 #EXTINF:-1,Sky Primafila 6
 http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68355
+#EXTINF:-1, --Radio--
+#EXTINF:-1,Rai Radio 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162834&output=16
+#EXTINF:-1,Rai Radio 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162063&output=16
+#EXTINF:-1,Rai Radio 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162841&output=16
+#EXTINF:-1,Radio Italia
+https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
