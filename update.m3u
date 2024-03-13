@@ -7,6 +7,8 @@ http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64047
 http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64048
 #EXTINF:-1,Rai 4
 http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64049
+#EXTINF:-1,Rai 5
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/64050
 #EXTINF:-1,Rai News 24
 http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68340
 #EXTINF:-1,Rai Premium
@@ -53,11 +55,3 @@ http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68353
 http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68354
 #EXTINF:-1,Sky Primafila 6
 http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/68355
-#EXTINF:-1,Rai Radio 1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162834&output=16
-#EXTINF:-1,Rai Radio 2
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162063&output=16
-#EXTINF:-1,Rai Radio 3
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162841&output=16
-#EXTINF:-1,Radio Italia
-https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
