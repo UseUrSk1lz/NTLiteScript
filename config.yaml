@@ -1,0 +1,30 @@
+host: 89.168.24.242
+port: 8080
+forwarded_pass: password
+token_salt: 6r8bt67ta5e87tg7afn
+channels_timeout_sec: 5
+channels_total_timeout_sec: 60
+channels_retry_delay_ms: 1000
+xmltv_timeout_sec: 30
+xmltv_total_timeout_sec: 120
+xmltv_retry_delay_ms: 1000
+use_http2: false
+servers:
+  - name: test2
+    connections:
+      - url: https://raw.githubusercontent.com/UseUrSk1lz/NTLiteScript/main/test.m3u
+        max_connections: 1
+
+    xmltv_before: p5d
+    xmltv_after: p1d
+    send_user: true
+    proxy_stream: true
+    channel_failed_ms: 1000
+    info_timeout_ms: 1000
+    info_total_timeout_ms: 2000
+    info_retry_delay_ms: 100
+    catchup_timeout_ms: 1000
+    catchup_total_timeout_ms: 2000
+    catchup_retry_delay_ms: 100
+    stream_start_timeout_ms: 1000
+    stream_read_timeout_ms: 1000
