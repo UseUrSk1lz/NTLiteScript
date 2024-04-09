@@ -1,0 +1,8 @@
+host: 89.168.24.242
+port: 8080
+servers:
+  - name: someiptv-1
+    connections:
+      - url: https://raw.githubusercontent.com/UseUrSk1lz/NTLiteScript/main/test.m3u
+        max_connections: 1
+proxy_stream: 1
